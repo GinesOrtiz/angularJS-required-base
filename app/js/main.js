@@ -10,7 +10,6 @@
 			angularWebStorage: '../bower_components_min/angular-webstorage/angular-webstorage',
 			angularSanitize: '../bower_components_min/angular-sanitize/angular-sanitize',
 			jquery: '../bower_components_min/jquery/jquery',
-			config: 'config',
 			utils: 'utils/utils'
 		},
 		shim: {
@@ -42,7 +41,6 @@
 		]
 	});
 
-	//http://code.angularjs.org/1.2.1/docs/guide/bootstrap#overview_deferred-bootstrap
 	window.name = "NG_DEFER_BOOTSTRAP!";
 
 	require([

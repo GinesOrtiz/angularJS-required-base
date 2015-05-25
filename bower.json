@@ -1,8 +1,8 @@
 {
   "name": "angular-requirejs-seed",
   "description": "AngularJS seed project modified for requireJS support.",
-  "version": "0.2.0",
-  "homepage": "https://github.com/tnajdek/angular-requirejs-seed",
+  "version": "0.1.0",
+  "homepage": "https://github.com/GinesOrtiz/angularJS-required-base",
   "license": "MIT",
   "ignore": [
     "node_modules",
