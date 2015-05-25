@@ -1,0 +1,393 @@
+{
+  "GENERAL": {
+    "OK": "Ok",
+    "CANCEL": "Cancel·lar",
+    "SAVE": "Guardar",
+    "ATTENTION": "Atenció",
+    "NO_INTERNET": "No disposes de connexió a internet",
+    "ERROR_TRY_AGAIN": "Vaja! S'ha produït un error. Torna-ho a provar.",
+    "ERROR_DATABASE": "Vaja! S'ha produït un error a la base de dades",
+    "LOADING": "Cargando...",
+    "LOGOUT": "Tancar sessió",
+    "SESSION_EXPIRED": "La teva sessió ha caducat",
+    "CLOSE": "Tancar",
+    "CONFIRM": "Confirmar",
+    "CONTINUE": "Continuar",
+    "PERFECT": "Perfecte!",
+    "SAVED_SUCCESSFULLY": "Desat correctament",
+    "MICROPHONE_DISABLED": "Es necessari que activis el micròfon per utilitzar aquesta funcionalitat",
+    "RESULTS": "Resultats",
+    "SEND": "Enviar"
+  },
+  "NAVBAR": {
+    "TITLES": {
+      "WE_GO_BCN": "reqApp",
+      "WE": "We",
+      "GO": "Go",
+      "BCN": "Bcn",
+      "SEARCH_RESULTS": "Resultats de búsqueda",
+      "GET_BACK": "Tornar a...",
+      "GET_BACK_HOTEL": "Tornar a l'hotel",
+      "GET_BACK_PORT": "Tornar al port",
+      "GET_BACK_HOME": "Tornar a casa",
+      "SETTINGS": "Adjustaments",
+      "PLANNER": "Planning",
+      "PROFILE_DATA": "Dades personals",
+      "QR": "Codi descompte",
+      "TAGS": "Els teus gustos",
+      "TAGS_DISLIKE": "Que no t'agrada"
+    },
+    "SEARCH": "Buscar..."
+  },
+  "ABOUT": {
+    "ABOUT_US": "Sobre nosaltres",
+    "DISCLAIMER": "Avís",
+    "CONDITIONS": "He llegit i estic d'acord amb els<a href='#/disclaimer/signup/conditions'>termes i condicions</a> i la <a href='#/disclaimer/signup/privacy'>Política de privacitat</a>",
+    "PRIVACY": "Política de privacitat",
+    "ABOUT_TEXT": "WE GO BCN és una proposta innovadora d'ATLAS LAB que té com a objectiu proporcionar una sol·lució definitiva en una única plataforma digital, per donar plena satisfacció a totes les necessitats del turista o resident a la ciutat de Barcelona i convertir la seva estada en una experiència única, diferent i inolvidable.",
+    "PRIVACY_POLICY": "“http://www.reqApp.com” y la aplicación WE GO BCN son propiedad de ATLAS LAB, S.A. (en adelante ATLAS LAB), con CIF A-66021684, con domicilio en la calle Salvador Espriu, 3 3-1, de la ciudad de 43201-Reus e inscrita en el Registro Mercantil de Barcelona al tomo 43.835, folio 145, hoja nº B-439734.<br><br>ATLAS LAB no se hace responsable del uso del usuario o de terceros ni, de las expectativas del usuario sobre el resultado obtenido  a las que pueda acceder desde enlaces o hipervínculos contenidos en la página web de reqApp.com.<br><br>Por la cumplimentación de cualquier formulario existente en la Aplicación WE GO BCN o en la página “http://www.reqApp.com”, al descargarla, al navegar y/o al pulsar el “click” de “enviar” o “aceptar”, el usuario acepta la presente política de privacidad y autoriza a ATLAS LAB al tratamiento de los datos personales que obren en el mismo.<br><br>Los datos del usuario se almacenarán en un fichero automatizado propiedad de ATLAS LAB y serán utilizados por ATLAS LAB para el uso propio de la Aplicación descargada, así como para mantenerle informado de las actividades y de  los productos y/o servicios de ATLAS LAB y de otras empresas proveedoras de servicios desde dentro de la aplicación, que en cada momento ponga a disposición de sus usuarios y/o del público en general por medios tradicionales o por correo electrónico, mensajes a móviles o medio de comunicación electrónica equivalente.<br><br>ATLAS LAB se compromete a guardar la máxima confidencialidad sobre la información que le sea facilitada y a utilizarla, únicamente, para los fines indicados.<br><br>ATLAS LAB presume que los datos han sido introducidos por su titular o por persona autorizada por éste, así como que son correctos y exactos.<br><br>Corresponde al usuario la actualización de sus propios datos, no siendo responsable ATLAS LAB de su exactitud si el usuario no comunica, previamente, a ATLAS LAB cualquier cambio de los mismos (por ejemplo cambio de “Medio” en el que trabaja o de  dirección de correo electrónico).<br><br>La Aplicación se basa en un sistema de geolocalización, por lo que el usuario tendrá la opción de activarla. En ese caso autoriza la monitorización y el seguimiento de ATLAS LAB para poder cumplir con los servicios ofrecidos en la Aplicación descargada. Asimismo se faculta a ATLAS LAB a utilizar los datos de localización para aprender sobre los  hábitos y gustos del usuario a través de un motor de inteligencia artificial a fin de poder personalizar su plan, así como que ATLAS LAB ofrezca servicios o productos propios y/o de terceros que puedan interesar al usuario por su perfil, gustos, hábitos, necesidades o características comunicadas por el usuario a ATLAS LAB. El usuario siempre podrá desactivar la localización a su conveniencia mediante los ajustes de su terminal móvil.<br><br>El usuario podrá ejercer sus derechos de acceso, rectificación, cancelación, así como revocar el consentimiento dado y, en especial para la remisión de publicidad por o por correo electrónico, mensajes a móviles o medio de comunicación electrónica equivalente, comunicándolo a la siguiente dirección electrónica:<br><br>unsubscribe@reqApp.com.<br><br>ATLAS LAB utiliza tecnología publicitaria cuando visita nuestros sitios web y otros sitios donde tenemos presencia. Esta tecnología utiliza información sobre su visita en este sitio web y en los sitios web donde nos publicitamos para ofrecerle dicha información comercial. Además de cookies, se utilizan GIFs o PIXEL Tags, para ayudarnos a la gestión de nuestra publicidad electrónica y para recordarnos quién es el usuario y obtener acceso a la información de su cuenta almacenada en nuestros equipos, para ofrecerle un servicio mejor y más personalizado.<br><br>Las cookies que ATLAS LAB utiliza no pueden leer datos de su disco duro ni leer archivos cookie creados por otros proveedores. En el caso de que Ud. Desee impedir la generación de cookies, podrá seleccionar la correspondiente opción en su programa navegador.<br><br>Los datos obtenidos están disociados de cualquier posible identificación de la identidad del usuario, de quién obtenemos su dirección IP que utilizamos para crear categorías de usuarios y para fines estadísticos sobre hábitos de navegación.",
+    "TERMS_CONDITIONS": "“http://www.reqApp.com” y la aplicación WE GO BCN son propiedad de ATLAS LAB, S.A. (en adelante ATLAS LAB), con CIF A-66021684, con domicilio en la calle Salvador Espriu, 3 3-1, de la ciudad de 43201-Reus e inscrita en el Registro Mercantil de Barcelona al tomo 43.835, folio 145, hoja nº B-439734. <br><br><b>1. GENERALIDADES</b><br><br>1.1. Al entrar y navegar por la página web www.reqApp.com y/o al instalar la Aplicación WE GO BCN, el usuario acepta estas condiciones de uso. Deben leerse detenidamente antes de instalar la aplicación, iniciar la navegación y/o de aceptar los términos. <br><br><b>2. DEFINICIONES</b><br><br>Por «App» se entiende el software facilitado por ATLAS LAB para ofrecer las funcionalidades de la misma y los servicios de ATLAS LAB, para ser utilizado en dispositivos con los sistemas operativos Apple iOS y Android OS, así como sus actualizaciones periódicas y cualquier otro software o herramienta que permita utilizar esta App. Asímismo, el Site está concebido para navegadores: Google Chrome, Mozilla Firefox, Safari e Internet Explorer. <br><br><b>3. PROTECCIÓN DE DATOS</b><br><br>El uso de la App implica la conformidad a la Política de Privacidad. El Site y la App están concebidos para mayores de edad (18 años o 21 años según el país). El tipo de información personal recibida y almacenada puede incluir: tu nombre, dirección de correo electrónico, nombre de usuario en redes sociales, información de uso en nuestros sitios y del navegador, gustos, hábitos para sugerencias de planes u ofertas comerciales, datos de perfil para mejorar y personalizar la oferta. ATLAS LAB recibe automáticamente: la localización, dirección IP, información de cookies y del sitio solicitado. <br><br><b>4. ACCESO</b><br><br>El usuario puede descargar, instalar, ejecutar o usar la App directamente, por el Site y/o por invitación o código de acceso personal e intransferible para realizar pruebas acotadas en usuarios, asociada a una sola instalación de la aplicación de un único terminal, sin que quepa cesión, compartir ni transmisión. Dicha App puede estar integrada a redes sociales y por tanto el registro y acceso realizarse a través de las mismas, si bien el usuario deberá de respetar las condiciones de uso y políticas de privacidad de los sitios de origen, destino y, en especial de la App o web de ATLAS LAB. <br><br><b>5. MODIFICACIONES</b><br><br>Las Condiciones de uso podrán ser modificadas o sustituidas por parte de ATLAS LAB por otras en cualquier momento, por ello el usuario, estará aceptando las vigentes en el momento de cada uso de la App por lo que es responsabilidad del usuario consultarlas de forma periódica. <br><br><b>6. LICENCIA Y DERECHOS DE PROPIEDAD</b><br><br>6.1. ATLAS LAB te concede como usuario, un privilegio personal, revocable, gratuito, limitado, no exclusivo y de carácter internacional intransferible y no exclusivo para que accedas y utilices la App o navegues por el Site en el ámbito personal, no comercial, dentro de los límites establecidos en estas Condiciones.<br><br>6.2. Todos los derechos de propiedad industrial, derechos de autor, bases de datos y otros derechos de propiedad intelectual de la App y/o del Site, cualquiera que sea su naturaleza, así como el código fuente, son propiedad de ATLAS LAB o los licenciadores de ATLAS LAB.<br><br>6.3. Todos los textos, gráficos, interfaces de usuario, interfaces visuales, fotografías, marcas comerciales, logotipos, sonidos, canciones, ilustraciones y código de programación, incluyendo sin limitación, el diseño, estructura, selección, coordinación, expresión, estilo y organización del contenido de la App o del Site, pertenecen a ATLAS LAB o a sus partners, y están protegido por leyes de Propiedad industrial, intelectual, así como por las leyes de competencia desleal.<br><br>6.4. El usuario cede todos los derechos sobre la fotografía que envíe y garantiza ser autor de la misma o contar con el consentimiento de su autor para enviarla con sujeción a estas condiciones. <br><br><b>7. CONDICIONES DE USO</b><br><br>7.1. La App y el Site se ofrecen en cada momento en la forma en que se pone a disposición del usuario, el usuario no actuará ni permitirá que terceras personas actúen en su nombre para (i) hacer y distribuir copias de la App o del Site; (ii) intentar copiar, reproducir, publicar, comercializar, alterar, modificar, hacer ingeniería inversa, desarmar, descompilar, transferir, intercambiar o traducir la App o el Site y/o cualquier elemento contenido o del Site o de la App; (iii) crear ninguna clase de proyecto derivado de la App o Site. <br><br>7.2. ATLAS LAB se reserva el derecho a modificar o deshabilitar la App o el Site en cualquier momento.<br><br>7.3. El usuario acepta que los términos del acuerdo con el proveedor de su red móvil o no («Proveedor de Servicios ») continuarán en vigor durante el uso de la App o del Site. En consecuencia, es posible que el Proveedor de Servicios cobre por los servicios de conexión a la red mientras la App permanezca conectada a la red, o que se produzcan cargos económicos de terceros. El usuario acepta la responsabilidad de los cargos que pudieran surgir.<br><br>7.4. Si el usuario no es el titular de facturación del teléfono o dispositivo móvil o fijo utilizado para acceder a la App o al Site, se asumirá que tiene permiso del titular para utilizar la App o el Site. <br><br>7.5. Para el uso de todas las funciones de la App o Site, es indispensable activar el servicio de localización. ATLAS LAB no se responsabiliza del uso ilícito que puedan hacer los usuarios, suplantaciones de identidad, facilitar datos o contenidos flasos o cualquier manipulación, omisión o engaño que lleve a error. ATLAS LAB colaborará con las Autoridades en denunciar y perseguir cualquier fraude, uso ilegitimo o abuso que conozca y se realice a través de la App y/o del Site. <br><br>7.6. La App y/o el Site permitirá al usuario diferentes acciones, entre ellas: (i) Identificar o publicar los lugares o establecimientos en los que se encuentra en cada momento, compartiendo esta información con el resto de usuarios; (ii) compartir con el resto de usuarios contenidos audiovisuales (a entera y única responsabilidad de quién los divulgue), planes a realizar, así como otros datos de carácter personal o información almacenada en la App y/o el Site o terminal del usuario; La App y/o el Site permite, en algunos casos compartir información de forma selectiva con algunos usuarios; (iv) la integración de la App y/o el Site con otras redes sociales permitirá compartir su información y sus contenidos con otras personas que nos son usuarios de la App o del Site, a través de sus perfiles en tales redes sociales. <br><br>7.7. Cualquier recomendación contenida o hipervínculo será responsabilidad del creador de su contenido, dejando ajena y al margen a ATLAS LAB de cualquier responsabilidad. <br><br>7.8. Queda prohibida la utilización de enlaces profundos, page-scrape (extracción de datos), robots, spiders (arañas) u otros dispositivos automáticos, programas, algoritmos, metodologías o procesos manuales similares para acceder, adquirir, copiar o hacer un seguimiento de parte del sitio o su contenido con el fin de obtener o intentar obtener materiales, documentos o información no disponible a través del mismo.<br><br>7.9. Queda prohibido explorar, escanear o evaluar la vulnerabilidad del sitio o de cualquier red conectada al mismo, así como quebrantar las medidas de seguridad o autenticación del sitio o de cualquier red conectada al mismo. No está permitido el rastreo o búsqueda de datos de usuarios, visitantes del sitio o de ATLAS LAB. Tampoco está permitido explotar de manera alguna la App o el Site ni ningún otro servicio o información disponible u ofrecida a través de la misma con el propósito de revelar información.<br><br>7.10. Cuentas, contraseñas y seguridad. Para la utilización de determinadas prestaciones o servicios ofrecidos a través de la App o del Site, puede ser necesaria la creación de una cuenta (incluida la configuración de un ID y contraseña). Es tu responsabilidad mantener la confidencialidad de la información de la cuenta, incluyendo la contraseña, así como todas y cada una de las actividades que en ella sucedan. Aceptas informar a ATLAS LAB de forma inmediata en caso de que se haga un uso ilegítimo de tu cuenta o contraseña, o si ocurriera cualquier problema relativo a la seguridad. Sin embargo, serás responsable de las pérdidas en las que incurra ATLAS LAB o cualquier otro usuario o visitante del sitio si alguien utiliza tu ID, contraseña o cuenta. Queda prohibido el uso del ID, contraseña o cuenta de otra persona sin su consentimiento expreso. ATLAS LAB queda indemne de las pérdidas o daños provocados a causa del incumplimiento de estas obligaciones. <br><br><b>8. DISPONIBILIDAD</b><br><br>8.1. La App está disponible para los dispositivos Apple iOS que funcionen con los sistemas operativos iOS 7.1 en adelante, y dispositivos Android OS, con los sistemas operativos 4.1 en adelante. Idioma castellano, catalán, e inglés. ATLAS LAB hará todos los esfuerzos razonables para que la App y el Site estén disponible en todo momento. No obstante, el usuario acepta que la entrega de la App o acceso al Site se realizará a través de internet y de las redes móviles y que, en consecuencia, la calidad y disponibilidad de la App p del Site pueden verse afectadas por factores ajenos al control de ATLAS LAB. Por ello, ATLAS LAB, y sus proveedores y subcontratistas no se hacen responsables de la no disponibilidad de la App o del Site, de las dificultades o de la imposibilidad de descargar o acceder a su contenido, ni de ningún otro fallo en el sistema de comunicación que pudiera provocar que la Aplicación no esté disponible. <br><br>8.2. ATLAS LAB no se hará responsable del servicio técnico ni del mantenimiento de la App. <br><br><b>9. REQUISITOS DEL SISTEMA</b><br><br>9.1. Para poder utilizar la App o el Site, el usuario debe tener un teléfono o dispositivo móvil compatible en caso de la App o terminal fijo en caso del Site, con conexión a internet y que cumpla las especificaciones mínimas («Requisitos del software»). <br><br>9.2. La versión del software de la aplicación puede sufrir actualizaciones periódicas para añadir compatibilidad con nuevas funciones y servicios. <br><br><b>10. FINALIZACIÓN</b><br><br>10.1. ATLAS LAB puede dar por terminada la licencia de uso de la App o del Site o retirar la App o el Site en cualquier momento sin necesidad de notificación previa al usuario. <br><br>10.2. Al finalizar dicho uso, (a) también se pondrá fin a todos los derechos y licencias otorgados al usuario; (b) el usuario deberá dejar de utilizar el software; <br><br><b>11. LIMITACIÓN DE RESPONSABILIDADES</b><br><br>11.1. En ningún caso se podrá hacer responsable a ATLAS LAB de ningún tipo de pérdidas o daños directos, indirectos, especiales, punitivos, ejemplares o consecuentes, derivados del uso o el acceso a la App o el Site, incluida la pérdida de beneficios y similares, se deban o no a la falta de cumplimiento por parte de las partes, ya sea por infracción del contrato, agravio (incluida negligencia), responsabilidad del producto u otros. <br><br>11.2. ATLAS LAB no se hará responsable de ningún daño o alteración en los equipos del usuario como resultado de la instalación o el uso de la App o de la navegación por el Site, incluyendo, pero sin limitarse a, equipos informáticos, dispositivos portátiles o teléfonos móviles. <br><br>11.3. Ningún aspecto de estos términos de la App excluye o limita la responsabilidad de ATLAS LAB en relación a daños personales o materiales o cualquier otra responsabilidad que no se pueda excluir o limitar por ley. <br><br>11.4. El Servicio puede permitir enlazar con otros sitios web, servicios o recursos en Internet, y otros sitios web, servicios o recursos pueden contener enlaces al Site. Al acceder a sitios web de terceros, el usuario lo hace bajo su propio riesgo. Estos sitios no están bajo el control de ATLAS LAB y por ello, aceptas que no se hace responsable por el contenido, funciones, precisión, exactitud, legalidad, conveniencia o cualquier otro aspecto de dichos sitios o recursos. <br><br>11.5. ATLAS LAB establece un sistema de comunicación cifrada en un entorno razonablemente seguro (SSL), no obstante, ATLAS LAB no garantiza: (i) que los servicios que se publiciten o promocionen sea seguro o esté disponible en cualquier momento o lugar; (ii) que todo error o defecto sea corregido; (iii) todo el contenido o software esté libre de virus u otros componentes dañinos. <br><br><b>12. EFICACIA PARCIAL</b><br><br>En el caso de que una condición fuera nula o anulable, la validez del mismo en su conjunto no quedará afectada por dicha circunstancia, siempre que no se trate de una parte sustancial del mismo que pudiere desvirtuar el sentido original pretendido. La cláusula legalmente ineficaz será sustituida por una nueva o interpretada de un modo legalmente aceptable, que sea de un tenor lo más aproximado posible a la Condición de haber tenido conocimiento de la ineficacia de la misma, si no fuera posible se tendrá por no puesta. <br><br><b>13. EXENCIÓN DE RESPONSABILIDAD PARA LAS GARANTÍAS</b> CON EL FIN DE EVITAR DUDAS Y DE ACUERDO CON LO MÁXIMO PERMITIDO POR LA LEY, EL USUARIO CONSIENTE EXPRESAMENTE QUE ATLAS LAB SE EXIME DE CUALQUIER RESPONSABILIDAD EN RELACIÓN A TODAS LAS GARANTÍAS IMPLÍCITAS DERIVADAS DE LA APLICACIÓN O USO DEL SITE. ATLAS LAB NO GARANTIZA QUE LA APP O EL SITE, CONTENIDO, SERVICIOS O PRESTACIONES DEL MISMO NO CONTENGAN ERRORES O NO VAYAN A INTERRUMPIRSE, NI SE COMPROMETE A CORREGIR ERRORES NI A QUE TU USO DEL SITIO VAYA A APORTARTE UNOS RESULTADOS ESPECÍFICOS. LA APP, EL SITE Y SU CONTENIDO AL QUE SE ACCEDE SE OFRECE «TAL CUAL» Y «TAL COMO ESTÁN DISPONIBLES» SIN NINGÚN TIPO DE GARANTÍA. TODA LA INFORMACIÓN PUBLICADA EN LA APP O EN EL SITE ESTÁ SUJETA A CAMBIOS SIN AVISO. ATLAS LAB NO SE RESPONSABILIZA DE LAS GARANTÍAS, EXPLÍCITAS O IMPLÍCITAS, INCLUYENDO LA PRECISIÓN, NO INFRINGIMIENTO, COMERCIABILIDAD Y SU ADECUACIÓN PARA UN PROPÓSITO ESPECÍFICO. ATLAS NO SE RESPONSABILIZA DE LOS ACTOS, OMISIONES Y CONDUCTAS DE TERCEROS RELACIONADOS CON EL USO QUE DES A LA APP O AL SITE. EL USO QUE HAGAS, DIRECTA O INDIRECTAMENTE, DE LA APP O DEL SITE ES RESPONSABILIDAD TUYA. LA ÚNICA FORMA DE MOSTRAR TU DISCONFORMIDAD CON LA APP Y EL SITE Y SU CONTENIDO ES DEJAR DE UTILIZARLA. <br><br><b>14. POLÍTICA DE COOKIES</b><br><br> El Site y la App pueden utilizar cookies para poder ofrecer al usuario una navegación más rápida y mejorar la experiencia del usuario. Las cookies son pequeños dispositivos de almacenamiento y recuperación de datos que se instalan en su equipo informático con la finalidad expresada. En ningún caso nuestras cookies tratarán datos personales o que comprometan su privacidad. Si decide no aceptar nuestras cookies, podrá continuar utilizando nuestro Site o App de la forma habitual, aunque es posible que su experiencia de usuario se vea perjudicada. Su navegador, en ocasiones, puede generar un mensaje instantáneo que le brindará la posibilidad de oponerse a la instalación de cookies. Si su navegador no le facilita esta posibilidad de forma automática, el Usuario puede inhibir la instalación de las mismas siguiendo las instrucciones de su navegador. <br><br><b>15. ENTORNO DE SEGURIDAD</b><br><br> La información personal de tu cuenta estará en un entorno de seguridad SSL o equivalente para proteger tu información. El usuario debe proteger el acceso no autorizado, mediante la elección y custodia de la contraseña, en especial cerrando la sesión después de haber terminado de acceder a su cuenta. ATLAS LAB se esfuerza por proteger la información pero no puede garantizar la seguridad de la información de la cuenta del usuario. El ingreso o uso no autorizado, los fallos de software o hardware y otros factores, pueden comprometer la seguridad de la información y el usuario acepta los riesgos inherentes al medio y al entorno que pueden producirse en cualquier momento. <br><br><b>16. INFORMACIÓN COMPARTIDA</b> 16.1. La Información personal sobre el usuario es una parte integral y esencial del modelo de negocio de ATLAS LAB pero no la vende ni cede su uso de forma retribuida. ATLAS LAB puede compartir la información personal del usuario de forma asociada al Usuario (apodo o Nick nombre, foto, lista de amigos, etc. y demás información que el usuario hace pública en las condiciones que el usuario determine en la configuración de la privacidad del Site o App) con: (i) los amigos del usuario quienes podrán utilizarla y divulgarla sin el control de ATLAS LAB; (ii) proveedores, agentes o encargados de tratamiento de ATLAS LAB para cumplir con las funciones propias de la relación contractual y dentro del marco de las funcionalidades de la App y/o del Site.<br><br>16.2. ATLAS LAB se reserva el derecho a vender o ceder total o parcialmente sus activos o empresa, los datos del usuario en ese caso estarían incluidos en la transferencia en bloque de todos los datos; 15.3. ATLAS LAB podrá compartir los datos con empresas del Grupo, entendiendo por tal según la definición del artículo 42 del Código de Comercio del España. 15.4. También podremos ceder información a requerimiento de cualquier Autoridad Pública. <br><br><b>17. ELIMINAR CUENTA</b><br><br>17.1. Podrás eliminar tu cuenta a través de correo electrónico, enviándolo a la dirección siguiente: usuarios@reqApp.com.<br><br>17.2. Después de eliminar la información de tu cuenta o perfil, pueden permanecer copias de información visibles en otros lugares en la medida que haya sido compartida con otras personas o distribuida en la forma prevista en la configuración de privacidad del usuario o, copiada, usada, y/o almacenada por otros usuarios. <br><br><b>18. LEGISLACIÓN Y JURISDICCIÓN</b><br><br>Estas condiciones se someten a la Ley española y a los Juzgados y Tribunales de Barcelona ciudad."
+  },
+  "WE": {
+    "MYGO": "Mygo",
+    "GET_BACK": "Tornar a...",
+    "GOOGERS": "Googers",
+    "YEARS_REQUIRED": "Cal posar la data de naiximent per continuar",
+    "WEATHER": "Temps",
+    "TRANSLATE": "Traduir",
+    "MY_TRIP": "El meu viatge",
+    "HELP": "Ajuda",
+    "FAVORITES": "Favorits",
+    "PREMIUM_PLANS": "Plans premium"
+  },
+  "TRANSLATE": {
+    "SOURCE_LANG": "Selecciona idioma origen",
+    "TARGET_LANG": "Selecciona idioma final",
+    "SOURCE_INPUT": "Introduir text",
+    "TARGET_INPUT": "Traducció"
+  },
+  "FAVORITES": {
+    "YOUR_PLANS": "Els teus plans",
+    "YOUR_PLACES": "Els teus llocs",
+    "YOUR_OFFERS": "Les teves ofertes",
+    "EMPTY_PLACES": "No tens llocs preferits",
+    "EMPTY_OFFERS": "No tens ofertes preferides",
+    "EMPTY_PLANS": "No tens plans preferits"
+  },
+  "OFFERS": {
+    "OFFER_OBTAINED": "Oferta aconseguida"
+  },
+  "LANDING": {
+    "WELCOME": "Benvingut",
+    "MESSAGE": "Et convida a viure una experiència extraordinària"
+  },
+  "REGISTER": {
+    "TITLE": "Registre",
+    "NAME": "Nom",
+    "LASTNAME": "Cognoms",
+    "EMAIL": "Email",
+    "PASS": "Contrassenya",
+    "PASS_TWO": "Confirmar contrassenya",
+    "LEGAL_CONDITIONS": "He llegit i accepto els Termes i Condicions",
+    "PRIVACY_POLICY": "i la Política de Privacitat",
+    "REGISTER": "Registrar",
+    "LOGIN": "Iniciar sessió",
+    "FB_LOGIN": "Entra amb Facebook",
+    "LKD_LOGIN": "Entra amb Linkedin",
+    "FB_REGISTER": "Registrar amb Facebook",
+    "LKD_REGISTER": "Registrar amb Linkedin",
+    "TWT_REGISTER": "Registrar amb Twitter",
+    "WE_ARE": "SOM",
+    "ON_THE_GO": "ACTIUS",
+    "COPYRIGHT": "Tots els drets reservats",
+    "FORGOTTEN": "Has oblidat la teva contrassenya?",
+    "CREATEUSER": "Crear usuari",
+    "SOCIAL_MESSAGE": "Si et registres amb Facebook pots treure-l'hi molt més profit a l'aplicació.",
+    "INCOMPLETE": "Si us plau, omple correctament tots els camps.",
+    "MISMATCH": "Les contrassenyes no coincideixen.",
+    "TERMS": "Es necessari acceptar els termes i condicions.",
+    "SUCCESS_MSG": "Si us plau, revisa el teu correu per a activar el compte.",
+    "REGISTRATING": "Registrant",
+    "ALREADY_MEMBER": "Ja ets membre?",
+    "SOCIAL_SIGNUP": "o registra't amb",
+  },
+  "LOGIN": {
+    "TITLE": "Entrar",
+    "AUTHENTICATING": "Entrant",
+    "INCOMPLETE": "Si us plau, omple correctament tots els camps",
+    "WRONG": "Usuari o contrassenya invàlids",
+    "REMEMBER_PASS": "Recordar contrassenya",
+    "NOT_MEMBER": "No tens compte?",
+    "SOCIAL_LOGIN": "o entra amb"
+  },
+  "FORGOT": {
+    "INFO": "Per a reestablir la teva contrassenya, introdueix el teu e-mail i te n'enviarem una de nova per a que puguis canviarla més tard.",
+    "EMAIL_INPUT": "Introdueix el teu e-mail",
+    "BTN": "Enviar",
+    "FEEDBACK": "T'hem enviat una contrassenya temporal, revisa el teu correu.",
+    "OLD_PASS_INPUT": "Antiga contrassenya",
+    "NEW_PASS_INFO": "Escolleix una nova contrassenya",
+    "NEW_PASS_INPUT": "Nova contrassenya",
+    "NEW_PASS_CONFIRM": "Antiga contrassenya",
+    "BTN_TWO": "Restablir",
+    "INCOMPLETE": "Si us plau, omple correctament tots els camps.",
+    "MISMATCH": "Les contrassenyes no coincideixen."
+  },
+  "MAIN_MENU": {
+    "INNOVATE": "Innovem",
+    "INNOVATE_MESSAGE": "Sentir, tocar, disfrutar, compartir, somiar, vibrar... Innovem perque tinguis al teu abast tot el necessari per el viatge de la teva vida.",
+    "EXPERIENCE": "Una experiència única",
+    "EXPERIENCE_MESSAGE": "Perque tots som únics. Ara pots viuew una experiència segons la teva forma de ser, la forma de veure, el teu estat d'ànim, segons el teu GO.",
+    "INSPIRE": "Inspirat per BCN",
+    "INSPIRE_MESSAGE": "La millor guia per conèixer una ciutat que ho inspira tot. Gastronomia, rutes turístiques art i cultura, shopping, esports... El teu viatge inspirat per Bcn",
+    "MYGO_EXPLAIN": "Totes les teves coses",
+    "GO_EXPLAIN": "Un pla només per a tu",
+    "BCN_EXPLAIN": "La millor guía"
+  },
+  "GET_BACK": {
+    "HOTEL": {
+      "YOUR_HOTEL": "El teu hotel",
+      "CONGRATULATIONS": "Enorabona!",
+      "RETURN_DESCRIPTION": "Ets la persona <span>5.500</span> que ha aconseguit tornar al seu hotel amb WEGO.",
+      "HISTORY": "Explica'ns la història personal que has viscut abans de tornar al hotel i podràs accedit a nous descomptes i premis.",
+      "TELL_US": "Explica'ns la teva història aquí",
+      "SEARCHING_HOTEL": "Buscant hotel",
+      "EXPLAIN": "Escriu el nom de l'hotel",
+      "DESCRIPTION": "No te'n recordes a on està el teu hotel? Troba'l!"
+    },
+    "HOME": {
+      "YOUR_HOME": "La teva direcció",
+      "SEARCHING_HOME": "Buscant direcció",
+      "EXPLAIN": "Escriu una direcció",
+      "DESCRIPTION": "Vols tornar a casa teva? ¿Vols anar a alguna direcció?"
+    },
+    "PORT": {
+      "PORT": "Port",
+      "DESCRIPTION": "Si el teu vaixell està al port, torna-hi amb WE GO BCN"
+    }
+  },
+  "GO": {
+    "HELP_TEXT": "La millor <br>manera per preparar-te <br>un pla perfecte, consisteix <br>a conèixer tot <br> el que ens expliquis sobre tu: <br>el teu estat d'ànim, si viatges sol <br> o acompanyat, si t'agrada <br>el cine, la platja, si lo teu <br> es la història, la gastronomia... <br><br> <b>Quant més ens coneguem, millor</b>.",
+    "SPEAK_NOW": "Parla ara",
+    "REMAKE": "Re-fer",
+    "TAP_TO_TALK": "Toca per parlar",
+    "TOO_FAST": "Demasiadas peticiones simultáneas",
+    "REPEAT_PLAN": "Vaja!, Vols que et fagi un nou pla? <br>Com et trobes ara?",
+    "YOUR_PLAN_REPEATED": "D'acord, a veure si ara t'agrada més.",
+    "SOMETHING_MORE": "Vols afegir algo més?",
+    "INPUT_PLACEHOLDER": "Escriu aquí la teva resposta",
+    "SESSION_EXPIRED": "Vaja! La sessió ha caducat, tornarem a començar de nou.",
+    "NO_PLAN": "No s'ha trobat cap pla per aquest estat d'ànim",
+    "CALCULATING_POSITION": "Estem calculant la teva posició...",
+    "REDIRECT_CUSTOM_MAP": "Hem detectat que tens desactivada la funció de geolocalització. Si us plau, indica'ns des d'on vols surtir.",
+    "GPS_ERROR": "El GPS no t'ha pogut trobar. Si us plau, indica'ns des d'on vols surtir.",
+    "NOT_IN_CITY": "Hem detectat que no estàs a Barcelona. Si us plau, indica'ns des d'on vols surtir.",
+    "OLD_DATE": "No pots seleccionar una data anterior a la d'avui.",
+    "TITLE_TASTES": "Plan per gustos",
+    "TITLE_MOOD": "Plan por estado de ánimo",
+    "NO_TAGS": "Hem detectat que no has seleccionat cap gust. Si us plau, selecciona com a mínim un.",
+    "RATE_PLAN": "Valorar plan",
+    "RATE_PLAN_DESCRIPTION": "Diga'ns que t'ha semblat el plan, d'aquesta manera millorarem les futures suggerències",
+    "TRAVEL_ALONE": "Viatges sol?",
+    "PLAN_DATE": "Data del plan",
+    "DEPARTURE_TIME": "Hora de sortida",
+    "DEPARTURE_LOCATION": "Punt de salida",
+    "HOURS": "hores",
+    "MAKE_PLAN": "Generar plan",
+    "NOW": "Ara",
+    "USER_POSITION": "La teva posició",
+    "TYPE_ADDRESS": "Introdueix la direcció",
+    "VALIDATE_PLAN": "Validar plan",
+    "MAKE_PLAN": "Proposa un plan...",
+    "ABOUT_TASTES": "...sobre els meus gustos",
+    "ABOUT_MOOD": "...sel meu estat d'ànim"
+  },
+  "LIKES": {
+    "LIKE": "GO",
+    "LIKED": "✓",
+    "NO_OFFER": "Ho sentim, no hem trobat ha cap experiència"
+  },
+  "MONTHS": [
+    "Gener",
+    "Febrer",
+    "Març",
+    "Abril",
+    "Maig",
+    "Juny",
+    "Juliol",
+    "Agost",
+    "Septembre",
+    "Octubre",
+    "Novembre",
+    "Decembre"
+  ],
+  "UPBAR": {
+    "YOUR_HOTEL": "El teu hotel",
+    "YOUR_ADDRESS": "La teva direcció",
+    "YOUR_PORT": "El teu port",
+    "YOU": "Tu",
+    "DISTANCE": "Distància",
+    "DURATION": "Duració",
+    "BUS": "Bus",
+    "SUBWAY": "Metro",
+    "BY_FOOT": "A peu",
+    "DRIVING": "Amb cotxe",
+    "ORIGIN": "Origen",
+    "DESTINATION": "Destí",
+    "ROUTE_DETAILS": "Detalls ruta"
+  },
+  "MAP": {
+    "YOU_ARE_HERE": "Ets aquí",
+    "HOW_TO_ARIVE": "Com arribar",
+    "CALCULATING_ROUTE": "Calculant ruta",
+    "ERROR_LOADING_API": "No s'ha pogut carregar el mapa",
+    "NO_RESULTADOS": "No s'han trobat resultats",
+    "ERROR_DESCONOCIDO": "Hi ha hagut un error",
+    "RECALCULATING": "Recalculant...",
+    "ROUTE_TOGGLE_CLOSED": "Veure informació de ruta",
+    "ROUTE_TOGGLE_OPENED": "Tancar informació de ruta",
+    "USE_THIS_POINT": "Utilitzar aquest punt",
+    "START_POINT": "Senyala on surtiràs",
+    "SEARCH_ADDRESS": "Buscar direcció"
+  },
+  "GPS": {
+    "GPS_ERROR": "El GPS no t'ha pogut trobar",
+    "NEEDS_GPS": "Es necessari que activis el servei de geolocalització per utilitzar aquesta funcionalitat"
+  },
+  "WEATHER": {
+    "LOADING": "Carregant informació meteorològica...",
+    "ERROR_API": "No s'ha pogut obtenir la informació meteorològica",
+    "CANNOT_CONNECT": "No s'ha pogut conectar."
+  },
+  "LOCAL": {
+    "INSPIRED": "Inspirat per",
+    "MAP": "Mapa",
+    "CALL": "Truca",
+    "LOADING_IMG": "Carregant imatge",
+    "PRICE_RANGE": "Pressupost",
+    "HOW_TO_ARRIVE": "Com arribar-hi",
+    "ADDRESS": "Direcció",
+    "SUBWAY": "Metro",
+    "PHONE": "Telèfon",
+    "SCHEDULE": "Horari",
+    "WEBSITE": "Web",
+    "TRY_AGAIN": "No s'ha trobat informació, prova-ho més tard.",
+    "VISIT_WEBSITE": "Veure web",
+    "INVALID_LOCAL": "No s'h,a pogut carregar la informació.",
+    "WEBSITE": "Pàgina web",
+    "SOCIAL": "Xarxes socials",
+    "SHARE": "Compartir",
+    "RATE_LOCAL": "Valorar local",
+    "RATE_DESCRIPTION": "Diga'ns que t'ha semblat aquest lloc, d'aquesta manera millorarem les futures suggerències"
+  },
+  "NOTIFICATIONS": {
+    "TITLE": "Alertes",
+    "EMPTY": "No tens alertes",
+    "VALID_UNTIL": "Fins",
+    "TYPES": {
+      "USEROFFERS": "Ofertes aconseguides",
+      "PUSHNOTIS": "Notificacions"
+    }
+  },
+  "BCN": {
+    "NO_SECTIONS": " no conté cap subsecciò.",
+    "MORE_RESULTS": "Ver més resultats",
+    "NO_RESULTS": "No vam trobar res"
+  },
+  "DAYS": [
+    "",
+    "Dilluns",
+    "Dimarts",
+    "Dimecres",
+    "Dijous",
+    "Divendres",
+    "Dissabte",
+    "Diumenge"
+  ],
+  "TIME_EXPRESSIONS": {
+    "FROM_CAP": "De",
+    "FROM": "de",
+    "TO_CAP": "A",
+    "TO": "a",
+    "AND": " i ",
+    "COMMA": ", ",
+    "WEEKEND": "Cap de setmana",
+    "ALL_DAYS": "Tota la setmana",
+    "WEEKDAY": "Entre setmana"
+  },
+  "PROFILE": {
+    "LOGOUT": "Tancar sessió",
+    "REALLY_LOGOUT": "Estàs segur que vols tanca la sessió?",
+    "EDIT_PROFILE": "Editar dades personals",
+    "EDIT_LIKE": "Parlam dels teus gustos",
+    "BIRTHDATE": "Data de naixement",
+    "GENDER": "Génere",
+    "MALE": "Home",
+    "FEMALE": "Dona",
+    "KIND_OF_USER": "Tipus d'usuari",
+    "RESIDENT": "Resident",
+    "TOURIST": "Turista",
+    "SETTINGS": "Adjustaments",
+    "KIND_OF_INPUT": "Mode d'entrada de dades",
+    "VOICE": "Veu",
+    "KEYBOARD": "Teclat",
+    "GENERAL_SETTINGS": "Adjustaments generals",
+    "NAME": "Nom",
+    "SURNAME": "Cognoms",
+    "BASIC_INFO": "Informació bàsica",
+    "REALLY_USER_DATA": "Estàs segur que vols editar aquesta dada?",
+    "SKIP": "Ometre",
+    "SET_BIRTHDAY": "Quin any vas néixer?",
+    "SET_GENDER": "Ets home o dona?",
+    "PROCEDENCE": "Procedència",
+    "SET_ORIGIN": "Ets resident o turista?",
+    "SET_PROFILE": "Parla'ns de tu",
+    "LOCALE": "Local",
+    "PROFILE_NOT_LOADED": "No s'ha pogut carregar correctament el teu perfil",
+    "SAVES_CHANGES": "Guardar canvis"
+  },
+  "FACEBOOK": {
+    "LOGIN_FAIL": "Vaja! El login amb Facebook ha fallat",
+    "REGISTER_FAIL": "Vaja! El registre amb Facebook ha fallat"
+  },
+  "TWITTER": {
+    "LOGIN_FAIL": "Vaja! El login amb Twitter ha fallat",
+    "REGISTER_FAIL": "Vaja! El registre amb Twitter ha fallat"
+  },
+  "GOOGLE": {
+    "LOGIN_FAIL": "Vaja! El login amb Google ha fallat",
+    "REGISTER_FAIL": "Vaja! El registre amb Google ha fallat"
+  },
+  "LINKEDIN": {
+    "LOGIN_FAIL": "Vaja! El login amb Linkedin ha fallat",
+    "REGISTER_FAIL": "Vaja! El registre amb Linkedin ha fallat"
+  },
+  "TAGS": {
+    "START_TAGGING": "Selecciona els teus gustos",
+    "TAGS_CONTINUE": "Continuar",
+    "TAGS_SKIP": "Omitir",
+    "TAGS_FINISH": "Finalitzar",
+    "LIKES": "M'agrada",
+    "DISLIKES": "No m'agrada",
+    "SAVE_LIKES": "Guardar likes",
+    "SAVE_DISLIKES": "Guardar dislikes",
+    "TAGS_ALERT_TITTLE": "Perfecte!",
+    "TAGS_SAVED": "Desat correctament",
+    "TAGS_ALERT_TITLE": "Tingues cura! No has guardat els canvis",
+    "TAGS_ALERT_CONTINUE": "Continuar afegint",
+    "TAGS_ALERT_SKIP": "Descartar els canvis",
+    "TAGS_ALERT_SAVE": "Guardar canvis",
+    "AT_LEAST_ONE": "Si us plau, selecciona un com a mínim"
+  },
+  "PLANNER": {
+    "REALLY_REDO": "Estàs segur de re-fer el planning?"
+  },
+  "QR": {
+    "EXPIRE_DATE": "Caducitat:",
+    "DISCARD": "Descartar",
+    "LIKE": "M'agrada",
+    "ENJOYED": "Disfrutat",
+    "NOT_USE": "No utilitzar",
+    "RATE": "Valorar"
+  }
+}

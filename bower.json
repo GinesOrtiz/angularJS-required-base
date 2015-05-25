@@ -1,0 +1,38 @@
+{
+  "name": "angular-requirejs-seed",
+  "description": "AngularJS seed project modified for requireJS support.",
+  "version": "0.2.0",
+  "homepage": "https://github.com/tnajdek/angular-requirejs-seed",
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.x",
+    "angular-route": "~1.4.x",
+    "angular-animate": "~1.4.x",
+    "angular-webstorage": "",
+    "angular-resource": "",
+    "angular-sanitize": "",
+    "requirejs": "",
+    "bootstrap": "",
+    "jquery": "",
+    "bourbon": "3.2.3"
+  },
+  "resolutions": {
+    "angular": "~1.4.x"
+  },
+  "install": {
+    "path": "app/bower_components_min",
+    "sources": {
+      "bourbon":  "bower_components/bourbon/dist/**",
+      "bootstrap":  "bower_components/bootstrap/dist/**"
+    }
+  },
+  "directory": {
+    "path": "app/bower_components"
+  }
+}

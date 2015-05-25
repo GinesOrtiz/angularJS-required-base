@@ -1,0 +1,44 @@
+/* line 1, ../../features/example/styles/_example.scss */
+#example pre {
+  background: #181818;
+  color: white;
+  font-size: 12px;
+  font-weight: 100;
+  overflow: auto;
+  padding: 20px;
+}
+/* line 10, ../../features/example/styles/_example.scss */
+#example .media {
+  margin: 0 auto 20px;
+  padding: 0 0 40px 0;
+  background-color: #181818;
+}
+/* line 14, ../../features/example/styles/_example.scss */
+#example .media .cover {
+  width: 100%;
+  height: 500px;
+  overflow: auto;
+  background-size: cover;
+  background-position: center;
+}
+/* line 21, ../../features/example/styles/_example.scss */
+#example .media .card {
+  background: white;
+  margin: -300px auto 0;
+  width: 80%;
+  padding: 20px;
+  box-shadow: 0 0 50px 0px rgba(0, 0, 0, 0.3);
+  border-radius: 2px 2px 0 0;
+}
+/* line 29, ../../features/example/styles/_example.scss */
+#example .media .card h3 {
+  margin-top: 0;
+}
+/* line 32, ../../features/example/styles/_example.scss */
+#example .media .card h3 small {
+  float: right;
+}
+/* line 37, ../../features/example/styles/_example.scss */
+#example .media .card .poster img {
+  width: 100%;
+}

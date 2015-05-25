@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html lang="en" ng-app="reqApp" class="no-js lt-ie9 lt-ie8 lt-ie7">
+<![endif]-->
+<!--[if IE 7]>
+<html lang="en" ng-app="reqApp" class="no-js lt-ie9 lt-ie8">
+<![endif]-->
+<!--[if IE 8]>
+<html lang="en" ng-app="reqApp" class="no-js lt-ie9">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" ng-app="reqApp" class="no-js">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Angular-RequireJS example - Ginés Ortiz</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=0"/>
+    <meta http-equiv="cache-control" content="no-cache"/>
+    <meta http-equiv="expires" content="0"/>
+    <meta http-equiv="pragma" content="no-cache"/>
+    <link rel="stylesheet" href="app/resources/css/general.css"/>
+    <link rel="stylesheet" href="app/bower_components_min/bootstrap/css/bootstrap.min.css"/>
+    <script data-main="app/js/main" src="app/bower_components_min/requirejs/require.js"></script>
+</head>
+<body id="{{stylePath}}">
+<div class="container-fluid">
+    <div ng-view class="row"></div>
+</div>
+</body>
+</html>
