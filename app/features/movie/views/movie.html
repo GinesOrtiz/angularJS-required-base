@@ -1,0 +1,7 @@
+<div class="col-md-6 media" ng-if="responseData">
+    <div class="cover" style="background-image: url({{getIMG(responseData.backdrop_path)}})"></div>
+    <film-card></film-card>
+</div>
+<div class="col-md-6 source">
+    <pre>{{responseData | json}}</pre>
+</div>

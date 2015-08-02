@@ -1,44 +1,107 @@
-/* line 1, ../../features/example/styles/_example.scss */
-#example pre {
+/* line 1, ../../features/movie/styles/_movie.scss */
+#movie .source {
+  padding-right: 0;
+}
+/* line 4, ../../features/movie/styles/_movie.scss */
+#movie .source pre {
   background: #181818;
   color: white;
   font-size: 12px;
   font-weight: 100;
   overflow: auto;
   padding: 20px;
+  border: none;
 }
-/* line 10, ../../features/example/styles/_example.scss */
-#example .media {
+/* line 15, ../../features/movie/styles/_movie.scss */
+#movie .media {
   margin: 0 auto 20px;
-  padding: 0 0 40px 0;
+  padding: 0;
   background-color: #181818;
 }
-/* line 14, ../../features/example/styles/_example.scss */
-#example .media .cover {
+/* line 19, ../../features/movie/styles/_movie.scss */
+#movie .media .cover {
   width: 100%;
   height: 500px;
   overflow: auto;
   background-size: cover;
   background-position: center;
 }
-/* line 21, ../../features/example/styles/_example.scss */
-#example .media .card {
-  background: white;
-  margin: -300px auto 0;
+/* line 26, ../../features/movie/styles/_movie.scss */
+#movie .media film-card {
+  position: absolute;
+  bottom: 0;
+}
+/* line 29, ../../features/movie/styles/_movie.scss */
+#movie .media film-card .card {
+  background: #181818;
+  margin: 0 auto;
   width: 80%;
   padding: 20px;
-  box-shadow: 0 0 50px 0px rgba(0, 0, 0, 0.3);
-  border-radius: 2px 2px 0 0;
+  box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.3);
 }
-/* line 29, ../../features/example/styles/_example.scss */
-#example .media .card h3 {
+/* line 36, ../../features/movie/styles/_movie.scss */
+#movie .media film-card .card h3 {
   margin-top: 0;
 }
-/* line 32, ../../features/example/styles/_example.scss */
-#example .media .card h3 small {
+/* line 39, ../../features/movie/styles/_movie.scss */
+#movie .media film-card .card h3 small {
   float: right;
 }
-/* line 37, ../../features/example/styles/_example.scss */
-#example .media .card .poster img {
+/* line 44, ../../features/movie/styles/_movie.scss */
+#movie .media film-card .card .poster img {
+  width: 100%;
+}
+
+/* line 1, ../../features/serie/styles/_serie.scss */
+#serie .source {
+  padding-right: 0;
+}
+/* line 4, ../../features/serie/styles/_serie.scss */
+#serie .source pre {
+  background: #181818;
+  color: white;
+  font-size: 12px;
+  font-weight: 100;
+  overflow: auto;
+  padding: 20px;
+  border: none;
+}
+/* line 15, ../../features/serie/styles/_serie.scss */
+#serie .media {
+  margin: 0 auto 20px;
+  padding: 0;
+  background-color: #181818;
+}
+/* line 19, ../../features/serie/styles/_serie.scss */
+#serie .media .cover {
+  width: 100%;
+  height: 500px;
+  overflow: auto;
+  background-size: cover;
+  background-position: center;
+}
+/* line 26, ../../features/serie/styles/_serie.scss */
+#serie .media serie-card {
+  position: absolute;
+  bottom: 0;
+}
+/* line 29, ../../features/serie/styles/_serie.scss */
+#serie .media serie-card .card {
+  background: #181818;
+  margin: 0 auto;
+  width: 80%;
+  padding: 20px;
+  box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.3);
+}
+/* line 36, ../../features/serie/styles/_serie.scss */
+#serie .media serie-card .card h3 {
+  margin-top: 0;
+}
+/* line 39, ../../features/serie/styles/_serie.scss */
+#serie .media serie-card .card h3 small {
+  float: right;
+}
+/* line 44, ../../features/serie/styles/_serie.scss */
+#serie .media serie-card .card .poster img {
   width: 100%;
 }

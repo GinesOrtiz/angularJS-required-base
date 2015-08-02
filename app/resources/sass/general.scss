@@ -1,5 +1,8 @@
 @import '../../bower_components_min/bourbon/_bourbon';
 
-#example {
-  @import '../../features/example/styles/_example';
+#movie {
+  @import '../../features/movie/styles/_movie';
+}
+#serie {
+  @import '../../features/serie/styles/_serie';
 }

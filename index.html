@@ -21,13 +21,15 @@
     <meta http-equiv="cache-control" content="no-cache"/>
     <meta http-equiv="expires" content="0"/>
     <meta http-equiv="pragma" content="no-cache"/>
-    <link rel="stylesheet" href="app/resources/css/general.css"/>
     <link rel="stylesheet" href="app/bower_components_min/bootstrap/css/bootstrap.min.css"/>
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/superhero/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="app/resources/css/general.css"/>
     <script data-main="app/js/main" src="app/bower_components_min/requirejs/require.js"></script>
 </head>
 <body id="{{stylePath}}">
+<header></header>
 <div class="container-fluid">
-    <div ng-view class="row"></div>
+    <div ng-view></div>
 </div>
 </body>
 </html>

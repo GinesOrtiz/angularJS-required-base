@@ -2,12 +2,12 @@
     'use strict';
 
     define(['angular'], function (angular) {
-        angular.module('reqApp.services.exampleSV', [])
-            .service('exampleSV', function ($http) {
+        angular.module('reqApp.services')
+            .service('serieSV', function ($http) {
 
                 this.requestGET = function (onSuccess, onError) {
                     $http({
-                        url: utils.getUrlRegex('exampleUrl', ['752']),
+                        url: utils.getUrlRegex('serie', ['615']),
                         method: 'GET',
                         timeout: utils.webServicesTimeout
                     }).success(function (data) {

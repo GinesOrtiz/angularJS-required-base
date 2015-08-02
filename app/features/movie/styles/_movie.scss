@@ -1,0 +1,49 @@
+.source {
+  padding-right: 0;
+
+  pre {
+    background: rgb(24, 24, 24);
+    color: white;
+    font-size: 12px;
+    font-weight: 100;
+    overflow: auto;
+    padding: 20px;
+    border: none;
+  }
+}
+
+.media {
+  margin: 0 auto 20px;
+  padding: 0;
+  background-color: rgb(24, 24, 24);
+  .cover {
+    width: 100%;
+    height: 500px;
+    overflow: auto;
+    background-size: cover;
+    background-position: center;
+  }
+  film-card {
+    position: absolute;
+    bottom: 0;
+    .card {
+      background: #181818;
+      margin: 0 auto;
+      width: 80%;
+      padding: 20px;
+      box-shadow: 0 0 50px 0 rgba(0, 0, 0, .3);
+
+      h3 {
+        margin-top: 0;
+
+        small {
+          float: right;
+        }
+      }
+
+      .poster img {
+        width: 100%;
+      }
+    }
+  }
+}

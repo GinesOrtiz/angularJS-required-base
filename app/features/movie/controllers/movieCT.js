@@ -1,14 +1,13 @@
 (function () {
+    'use strict';
+
     define([], function () {
-        return ['$scope', 'exampleSV',
-            function ($scope, exampleSV) {
-                exampleSV.requestGET(
+        return ['$scope', 'movieSV',
+            function ($scope, movieSV) {
+                movieSV.requestGET(
                     function onSuccess(data) {
                         console.log(data);
                         $scope.responseData = data;
-                    },
-                    function onError() {
-
                     }
                 );
 

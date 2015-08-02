@@ -3,7 +3,8 @@ var constants = {
 };
 
 var url_app = {
-    exampleUrl: '/movie/info/!1!/es/all.js'
+    movie: '/movie/info/!1!/en/all.js',
+    serie: '/serie/info/!1!/en/all.js'
 };
 
 var utils =
@@ -34,4 +35,24 @@ var utils =
             return match_obj[matched];
         });
     }
+};
+
+var routesAvaliable = [];
+var defineControllers = [];
+
+var setFeatureConfig = function (featureConfig) {
+
+    featureConfig.routes.forEach(function (route) {
+        route.folder = featureConfig.folder;
+    });
+    routesAvaliable = routesAvaliable.concat(featureConfig.routes);
+
+    featureConfig.controllers.forEach(function (controller) {
+        defineControllers.push({
+            stylePath: controller.stylePath,
+            name: controller.name,
+            path: '/app/features/' + featureConfig.folder + '/controllers/' + controller.name + '.js'
+        });
+    });
+
 };
