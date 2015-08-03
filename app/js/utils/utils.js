@@ -54,5 +54,4 @@ var setFeatureConfig = function (featureConfig) {
             path: '/app/features/' + featureConfig.folder + '/controllers/' + controller.name + '.js'
         });
     });
-
 };

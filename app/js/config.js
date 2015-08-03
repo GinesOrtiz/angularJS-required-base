@@ -7,13 +7,15 @@
         '../features/header/config'
     ];
 
+    var otherwiseRedirect = '/movie';
+
+    // No edition required
+
     var definePath = ['angular'].concat(features);
 
     define(definePath, function (angular) {
-        var moduleCtrl = [];
-
         defineControllers.forEach(function (ctrl) {
-            angular.module(ctrl.name, [])
+            angular.module('reqApp.controllers')
                 .controller(ctrl.name, ['$scope', '$injector', '$rootScope',
                     function ($scope, $injector, $rootScope) {
                         $rootScope.stylePath = ctrl.stylePath;
@@ -24,11 +26,7 @@
                         });
                     }
                 ]);
-            moduleCtrl.push(ctrl.name);
         });
-
-
-        angular.module('reqApp.controllers', moduleCtrl);
 
         angular.module('reqApp.config', ['ngRoute'])
             .config(['$routeProvider', '$locationProvider', '$compileProvider', '$httpProvider',
@@ -51,7 +49,7 @@
                     });
 
                     $routeProvider.otherwise({
-                        redirectTo: '/movie'
+                        redirectTo: otherwiseRedirect
                     });
 
                     $locationProvider.html5Mode({
